@@ -1,0 +1,10 @@
+Model,Split,Train_N,Test_N,RMSE,MAE,R2,RMSE_BRL,Cluster
+Decision Tree,70/30,63385,27166,0.6258,0.39,0.3834,0.87,Cluster 0 — Single-Purchase Guests
+Random Forest,70/30,63385,27166,0.4806,0.3266,0.6362,0.62,Cluster 0 — Single-Purchase Guests
+XGBoost,70/30,63385,27166,0.5036,0.3635,0.6007,0.65,Cluster 0 — Single-Purchase Guests
+Decision Tree,80/20,72440,18111,0.6228,0.3853,0.3957,0.86,Cluster 0 — Single-Purchase Guests
+Random Forest,80/20,72440,18111,0.4842,0.3272,0.6348,0.62,Cluster 0 — Single-Purchase Guests
+XGBoost,80/20,72440,18111,0.5069,0.3648,0.5997,0.66,Cluster 0 — Single-Purchase Guests
+Decision Tree,95/5,86023,4528,0.6193,0.3835,0.4039,0.86,Cluster 0 — Single-Purchase Guests
+Random Forest,95/5,86023,4528,0.4813,0.3245,0.6399,0.62,Cluster 0 — Single-Purchase Guests
+XGBoost,95/5,86023,4528,0.5004,0.359,0.6108,0.65,Cluster 0 — Single-Purchase Guests
