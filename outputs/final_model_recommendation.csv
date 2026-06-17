@@ -1,0 +1,3 @@
+Cluster,Guest_Count,Recommended_Model,Test_R2_80_20,Test_RMSE_80_20,Test_MAE_80_20,Note
+Cluster 0: Single-Purchase Guests,90551,Random Forest,0.6014,0.5058,0.3554,Decision Tree scored marginally higher (R²=0.622) but RF chosen for stability across partitions and lower overfitting risk
+Cluster 1: Loyal Guests,2806,Random Forest,0.4401,0.5237,0.4169,"Most consistent performer across partitions; small test set (n=141 at 95/5) limits precision, 95% CI: [0.317, 0.578]"
