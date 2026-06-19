@@ -1,0 +1,3 @@
+Cluster,RMSE,MAE,R2
+Cluster 0 Holdout,0.5055,0.3542,0.601
+Cluster 1 Holdout,0.5467,0.4177,0.3132
