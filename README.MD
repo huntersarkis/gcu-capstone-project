@@ -3,6 +3,7 @@
 A data-driven guest segmentation framework built for Target Corporation, using RFM feature engineering, K-Means clustering, and Random Forest regression to identify and prioritize high-value guests. Completed as the MIS-690 Capstone Project for the M.S. in Business Analytics program at Grand Canyon University.
  
 **Authors:** Hunter Sarkis and Illen Ortet
+
 **Program:** M.S. Business Analytics, Colangelo College of Business, Grand Canyon University
  
 ## Business Problem
